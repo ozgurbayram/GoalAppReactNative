@@ -7,8 +7,8 @@ a simple goal app writeen in react native and django backend
 * Api integration* 
 
 ### Screens
+<img src="ScreenShots/home.png" alt="drawing" width="200"/> | <img src="ScreenShots/goal.png" alt="drawing" width="207"/> 
 
-![Home](ScreenShots/home.png) | ![Goal](ScreenShots/goal.png)
 
 ## Table of Contents
 
