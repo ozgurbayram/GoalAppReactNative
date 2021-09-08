@@ -6,6 +6,10 @@ a simple goal app writeen in react native and django backend
 * Navigation (80% done)
 * Api integration* 
 
+### Screens
+
+![Home](ScreenShots/home.png) | ![Goal](ScreenShots/goal.png)
+
 ## Table of Contents
 
 * [Updating to New Releases](#updating-to-new-releases)
