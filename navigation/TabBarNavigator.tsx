@@ -6,7 +6,7 @@ import TabOneScreen from "../screens/TabOneScreen";
 import TabTwoScreen from "../screens/TabTwoScreen";
 import { TabStackParamList } from "../types";
 
-const Stack = createNativeStackNavigator<TabStackParamList>();
+const Stack = createNativeStackNavigator();
 
 export default function TabNavigator() {
   return (
